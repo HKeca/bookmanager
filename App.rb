@@ -1,11 +1,6 @@
-require './Book'
 require './BookManager'
 
 class App
-    def initialize()
-        @saveData = {}
-    end
-
     def run()
         bookm = BookManager.new()
 
