@@ -1,0 +1,9 @@
+---
+- title: Harry Potter
+  rating: 7/10
+  author: J. K. Rowling
+  isOut: false
+- title: Something
+  rating: 8/10
+  author: Testing
+  isOut: true
